@@ -1,0 +1,11 @@
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\bin\Debug\netcoreapp2.1\BatchConfigConsole.deps.json
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\bin\Debug\netcoreapp2.1\BatchConfigConsole.runtimeconfig.json
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\bin\Debug\netcoreapp2.1\BatchConfigConsole.runtimeconfig.dev.json
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\bin\Debug\netcoreapp2.1\BatchConfigConsole.dll
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\bin\Debug\netcoreapp2.1\BatchConfigConsole.pdb
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.csprojAssemblyReference.cache
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.csproj.CoreCompileInputs.cache
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.AssemblyInfoInputs.cache
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.AssemblyInfo.cs
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.dll
+C:\Users\walke\source\repos\BatchConfigConsole\BatchConfigConsole\obj\Debug\netcoreapp2.1\BatchConfigConsole.pdb
