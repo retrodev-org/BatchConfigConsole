@@ -56,7 +56,10 @@ namespace BatchConfigConsole
                         }
                         catch (Exception error)
                         {
-                            Console.WriteLine("Error: invalid length. Try again. " + error);
+                            if (input == "exit")
+                                Console.WriteLine("Thank you.");
+                            else
+                                Console.WriteLine("Error: invalid length. Try again. Must be numeric. " + error);
                         }
                     }
                 } // end while(mode == 0)
